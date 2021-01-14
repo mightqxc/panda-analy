@@ -1,0 +1,5 @@
+panda_id,job_state,error_code,error_message,inputfilebyte,endtime,checksum_adler,duration_time,retry_count,timestamp
+123,FAILED,wrong_path,Nou found,888,2021-01-12T00:00:00,a12fec53,99882,1,2021-01-12T00:00:00
+124,FINISHED,wrong_FILE,Nou_found_FILE,5888,2021-01-11T00:00:00,a13eec53,8455,5,2021-01-12T00:00:00
+125,CANCEL,FIN,NOT RUNNING ,75888,2021-01-10T00:00:00,b13eec5b,9882,3,2021-01-12T00:00:00
+126,RUNNING,RUN,still RUNNING ,777,2021-01-09T00:00:00,ffffaaaa,222,6,2021-01-12T00:00:00
